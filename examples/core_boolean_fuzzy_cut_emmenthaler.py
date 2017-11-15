@@ -77,7 +77,7 @@ def emmenthaler(event=None):
                                    )
         return cone.Shape()
 
-    # perform a recursive fusszy cut
+    # perform a recursive fuzzy cut
     # initialize the loop with the box shape
     shp = box
     for i in range(nb_iter):
