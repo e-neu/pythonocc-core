@@ -1,26 +1,26 @@
 core_boolean_fuzzy_cut_emmenthaler.py
 ============
 
-Abstract
-
 ------
+Abstract
+^^^^^^^^
 
 to do
 
-Howto launch the example ::
+------
+
+Launch the example ::
 
   $ python core_boolean_fuzzy_cut_emmenthaler.py
 
-Example output
-
 ------
+Screenshot
 
   .. image:: images/screenshots/capture-core_boolean_fuzzy_cut_emmenthaler-1-1510045202.jpeg
 
 
-Code
-
 ------
+Python Code
 
 
   .. highlight:: python
